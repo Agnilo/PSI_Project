@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5c6b3a5e7ec210409fa8a57a2c4ef31
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockledge Expanded Italic
+  fontNames:
+  - Rockledge Expanded Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70c0f24049256c548b781e3d7712374f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

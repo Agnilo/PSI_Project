@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9730870ecc63acf4b9b3f30eff38f678
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockledge Extra-Expanded Ital
+  fontNames:
+  - Rockledge Extra-Expanded Ital
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 573ec7286fe4e96439c31dd71f95ac22, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

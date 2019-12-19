@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c0026608ac28c344bbfbd5b0f0fca503
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockledge Expanded
+  fontNames:
+  - Rockledge Expanded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13c5895ac9c97b942bf6594859fe9127, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

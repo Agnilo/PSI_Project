@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e70134c1a829cf24e8dea491e803c52d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockledge Condensed Italic
+  fontNames:
+  - Rockledge Condensed Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d838dfd02bd2c9498332554cd3e663c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

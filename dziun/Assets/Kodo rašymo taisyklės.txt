@@ -1,0 +1,11 @@
+Kodo rašymo taisyklemis pasikliaujame todel, jog tai pades visiems komandos nariams suprasti, skaityti,  taisyti koda, pagerins našuma ir efektyvuma. Pades greit aptikti problemas ir jas ištaisyti. Rašydami koda komandos nariai turetu laikytis šiu taisykliu :
+	- Kintamuju vardai turi buti prasmingi ir paaiškinantys ju funkcija.
+	- Vengti vartoti skaicius kintamuju varduose.
+	- Funkcijos vardai turi paaiškiniti savo funkcija ir prasme.
+	- Eilutes atitraukimai labai svarbus :
+		> Kiekvienas funkcijos blokas turi buti atitrauktas nuo krašto kitu funkciju atžvilgiu.
+		> Skliausteliai funkcijoms apibrežti turi prasideti ir baigtis naujoje eiluteje.
+	- Komentuoti vietas kurios vien iš kodo gali buti sunkiai suprantamos.
+	- Kintamuju ir funkciju vardai rašomi ANGLU kalba.
+	- Funkciju dydis neturetu but per didelis ( gal kaikuriam funkcionalumui geriau ivesti nauja funkcija? )
+	
